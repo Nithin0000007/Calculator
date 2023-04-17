@@ -22,5 +22,5 @@ If you find a bug or would like to suggest a new feature, please open an issue o
 
 If you would like to contribute code, please fork the repository and submit a pull request.
 
-![2023-04-17 (1)](https://user-images.githubusercontent.com/127509559/232430653-430b5de7-4016-4404-ae23-9c8ff16bf0da.png)
-![2023-04-17 (2)](https://user-images.githubusercontent.com/127509559/232430680-7c71adf8-ac3a-434f-9f5f-8cd21ed652ca.png)
+![2023-04-17 (1)](https://user-images.githubusercontent.com/127509559/232431464-094fa0e6-93eb-4b4e-b101-2139b0b13da1.png)
+![2023-04-17 (2)](https://user-images.githubusercontent.com/127509559/232431486-65b77deb-594e-46f5-bec3-1ebf369ccc9b.png)
