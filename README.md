@@ -1,4 +1,6 @@
 #Calculator
+
+
 This is a simple calculator application built with JavaScript. It can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 Getting Started
